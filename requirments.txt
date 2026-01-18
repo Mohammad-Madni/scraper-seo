@@ -1,0 +1,13 @@
+annotated-types==0.7.0
+certifi==2026.1.4
+charset-normalizer==3.4.4
+dataforseo-client==2.0.17
+idna==3.11
+pydantic==2.12.5
+pydantic-core==2.41.5
+python-dateutil==2.9.0.post0
+requests==2.32.5
+six==1.17.0
+typing-extensions==4.15.0
+typing-inspection==0.4.2
+urllib3==2.2.2
